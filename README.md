@@ -1,2 +1,2 @@
 # POSTMAN-kurs-Udemy
-Kurs Udemy autorstwa pana Rafała Podrazy - przykładowe zadania, które wykonałam.
+Przykładowe zadania, które wykonałam, realizując kurs autorstwa p. Rafała Podrazy.
